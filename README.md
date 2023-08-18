@@ -1,4 +1,4 @@
-## Hi there, I'm Miracle; a Python Programmer and Embedded Systems Engineer, living in [Enugu](https://goo.gl/maps/u1KVey8AESexxWfWA) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there, I'm Miracle; a Python Programmer and Embedded Systems Engineer, living in [Nigeria](https://goo.gl/maps/u1KVey8AESexxWfWA) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MamaAfrica&count_private=true&show_icons=true&hide_title=true&hide=stars,contribs&theme=dracula" />
 
