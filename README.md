@@ -6,7 +6,7 @@
 
 ### I am a developer on these 2 projects
 
-- [Miraset](https://www.miraset.org/) 🌞
+- [Autosyshub](https://portfolio.autosyshub.com/) 🌞
 - [Embedded Poultry Farm](https://www.researchgate.net/publication/334376500_Design_and_Implementation_of_an_Embedded_Poultry_Farm) 🏠
 
 <br>
