@@ -1,8 +1,8 @@
-## Hi there, I'm Miracle; a Python Programmer and Embedded Systems Engineer, living in [Nigeria](https://goo.gl/maps/8y2SL2DR8pLJ1sya8) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there, I'm Miracle; a DevOps Engineer, living in [Cape Town](https://maps.app.goo.gl/rboe9S7oDNoPpDL28) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MamaAfrica&count_private=true&show_icons=true&hide_title=true&hide=stars,contribs&theme=dracula" />
 
-👻 I'm currently working at [Nathan Claire](https://ncgafrica.com/) ⚡
+👻 I'm currently doing my masters at the University of Cape Town](https://www.uct.ac.za/) ⚡
 
 ### I am a developer on these 2 projects
 
